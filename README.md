@@ -1,2 +1,2 @@
 # zentora-t-assets
-ZENTORA token media files
+ZENTORA token
